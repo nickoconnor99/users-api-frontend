@@ -1,5 +1,4 @@
 [build]
-  base = "frontend"          # path to your frontend folder
   publish = ".next"
   command = "npm install && npm run build"
 
